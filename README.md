@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AmandineVrn
-- 👀 I’m interested in Web Development and DC Comics
+- 👀 I’m interested in Web Development, Photography and DC Comics
 - 🌱 I’m currently learning PHP and JavaScript
 
 
