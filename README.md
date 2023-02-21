@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MandinaVrn
+- 👋 Hi, I’m @AmandineVrn
 - 👀 I’m interested in Web Development and DC Comics
 - 🌱 I’m currently learning PHP and JavaScript
 
