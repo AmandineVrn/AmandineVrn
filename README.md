@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AmandineVrn
 - 👀 I’m interested in Web Development, Photography and DC Comics
-- 🌱 I’m currently learning PHP and JavaScript
+- 🌱 I’m currently learning Sass and JavaScript and would like to start React
 
 
 <!---
