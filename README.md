@@ -9,5 +9,6 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <br>
+<br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmandineVrn&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmandineVrn&layout=compact)
